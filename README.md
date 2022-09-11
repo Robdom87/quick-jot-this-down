@@ -9,4 +9,4 @@ The user can search for the notes via the API as well, by pulling all or each no
 ![image](./Develop/public/assets/11-express-homework-demo-02.png)
 
 ## Link to Deployed App
-notes-app-xxii.herokuapp.com
+https://notes-app-xxii.herokuapp.com/
