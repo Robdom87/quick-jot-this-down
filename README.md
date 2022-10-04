@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# 
 
 ## Description
 Simple app to create, store, and delete notes running on an express server. Each notes is allowed a title and text.

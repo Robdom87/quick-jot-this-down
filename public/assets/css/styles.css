@@ -76,3 +76,11 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
+.navbar {
+  background-color: #757575;
+}
+
+.navbar a {
+  color: white;
+}
