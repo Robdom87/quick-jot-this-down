@@ -1,12 +1,23 @@
-# 
+# quick-jot-this-down 
 
 ## Description
 Simple app to create, store, and delete notes running on an express server. Each notes is allowed a title and text.
 
-The user can search for the notes via the API as well, by pulling all or each notes unique id.
+The user can search for the notes via the API as well, by pulling all or each note by unique id.
 
-## Screenshot
-![image](./Develop/public/assets/11-express-homework-demo-02.png)
+![Quick Jot This Down Interface](./public/assets/images/Screenshot.png)
 
-## Link to Deployed App
-https://notes-app-xxii.herokuapp.com/
+
+
+
+## License
+
+Copyright <2022> <quick-jot-this-down>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
